@@ -11,5 +11,3 @@ CREATE OR ALTER PROC [test_MyClass].[TestOne]
 AS
 	EXEC tsqlt.assertEquals 2,2
 GO
-
-
