@@ -28,4 +28,3 @@ BEGIN
 	LEFT JOIN Department_Manager DM ON ED.DepartmentID = DM.DepartmentID
 END;
 GO
-
