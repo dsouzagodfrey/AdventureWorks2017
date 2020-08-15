@@ -25,5 +25,3 @@ BEGIN
 		ON ED.DepartmentID = DM.DepartmentID
 END;
 GO
-
-
